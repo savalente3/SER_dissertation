@@ -1,4 +1,4 @@
-# 6001CEM_disseration 
+# SER in autonomous vehicles - disseration 
 _"Comparative Analysis on Single Classification Models Using SVM and CNN Algorithms for Speech Emotion Recognition Systems in Vehicles"_
 
 ## Abstract
